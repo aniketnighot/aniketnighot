@@ -15,7 +15,7 @@ With industry experience in companies like **Accenture**, **Cognizant**, and **D
 
 ### 📌 Featured Projects
 
-#### ❤️ [ECG Forecasting with Temporal Fusion Transformer](https://github.com/aniketnighot/ECG_Forecasting_TFT)
+#### ❤️ [ECG Forecasting with Temporal Fusion Transformer](https://github.com/aniketnighot/ECG-tft-forecasting)
 Biomedical time-series forecasting using TFT. Improved interpretability and performance over LSTM and CNN models. MAE: **0.0544**.
 
 #### 🔍 [Sentiment Analysis Web App](https://github.com/aniketnighot/Sentiment_Analysis)
