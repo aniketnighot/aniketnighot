@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aniket Prakash Nighot
 
-🚀 Aspiring **AI/ML Engineer** | 💡 Exploring **NLP**, **Deep Learning**, and **LLMs**  
+🚀 **AI/ML Engineer** | 💡 **NLP**, **Deep Learning**, and **LLMs**  
 📍 Based in Frankfurt, Germany | 🌐 [LinkedIn](https://www.linkedin.com/in/aniketnighot)
 
 ---
