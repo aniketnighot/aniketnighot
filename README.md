@@ -18,6 +18,9 @@ With industry experience in companies like **Accenture**, **Cognizant**, and **D
 #### ❤️ [ECG Forecasting with Temporal Fusion Transformer](https://github.com/aniketnighot/ECG-tft-forecasting)
 Biomedical time-series forecasting using TFT. Improved interpretability and performance over LSTM and CNN models. MAE: **0.0544**.
 
+#### 🧠 [TinyLLM – Character-Level Language Model](https://github.com/aniketnighot/TinyLLM)
+Built a decoder-only LLM from scratch using PyTorch for character-level text generation.  
+
 #### 🔍 [Sentiment Analysis Web App](https://github.com/aniketnighot/Sentiment_Analysis)
 A full-stack NLP project using LSTM and Flask to classify user reviews as positive or negative. 
 
