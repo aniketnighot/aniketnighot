@@ -73,7 +73,6 @@ A computer vision project that detects face masks on individuals in real time us
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aniketnighot)
 - ✉️ anighot94@gmail.com
-- 🌐 [Portfolio](#) – coming soon!
 
 ---
 
