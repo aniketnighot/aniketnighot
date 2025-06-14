@@ -37,13 +37,17 @@ A computer vision project that detects face masks on individuals in real time us
 
 ### 🛠️ Skills & Tools
 
-- **Programming Languages:** Python, SQL, C#, Java
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost
-- **Advanced ML Techniques:** LSTM, Transformers, Temporal Fusion Transformer (TFT)
-- **Computer Vision:** YOLO, OpenCV, Deep Learning
-- **Big Data & Data Engineering:** Apache Spark, PySpark, FME, ETL Pipelines
-- **Data Visualization:** Power BI, Matplotlib, Seaborn, TensorBoard
-- **Other:** Agile methodologies, Git, MLOps basics, Model Interpretability
+- **Programming Languages:** Python, SQL, C#, Java  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LangChain, Hugging Face Transformers, Ollama SDK  
+- **Advanced ML & NLP Techniques:** LSTM, Transformers, Temporal Fusion Transformer (TFT), Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-tuning Large Language Models  
+- **Generative AI & LLMs:** Text-to-Text Generation, Summarization, Question Answering, Conversational AI  
+- **Vector Search & Embeddings:** FAISS, Pinecone, Weaviate, ChromaDB, Sentence Transformers  
+- **Computer Vision:** YOLO, OpenCV, Deep Learning  
+- **Big Data & Data Engineering:** Apache Spark, PySpark, FME, ETL Pipelines  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn, TensorBoard  
+- **DevOps & MLOps:** Docker, Kubernetes basics, CI/CD pipelines, Model Deployment, Monitoring  
+- **Other:** Agile methodologies, Git, Model Interpretability, API Development (Flask, FastAPI), Streamlit  
+
 
 ---
 
