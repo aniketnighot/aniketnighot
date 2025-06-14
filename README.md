@@ -15,7 +15,7 @@ With industry experience in companies like **Accenture**, **Cognizant**, and **D
 
 ### 📌 Featured Projects
 
-#### ❤️ [Finance News RAG Assistant]([https://github.com/aniketnighot/ECG-tft-forecasting](https://github.com/aniketnighot/finance-news-rag-assistant)
+#### 🧠 [Finance News RAG Assistant](https://github.com/aniketnighot/ECG-tft-forecasting)
 An intelligent RAG-powered chatbot for real-time finance news insights and Q&A.
 
 #### ❤️ [ECG Forecasting with Temporal Fusion Transformer](https://github.com/aniketnighot/ECG-tft-forecasting)
